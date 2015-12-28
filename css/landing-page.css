@@ -153,6 +153,13 @@ h6 {
         float: left;
         margin-top: 15px;
     }
+    #saurabhImage{
+      content: url(../img/saurabh2x.png);
+    }
+
+    #mohitImage{
+      content: url(../img/mohit2x.png);
+    }
 }
 
 @media(max-width:767px) {
@@ -170,6 +177,14 @@ h6 {
 
     ul.banner-social-buttons > li:last-child {
         margin-bottom: 0;
+    }
+
+    #saurabhImage{
+      content: url(../img/saurabh2x.png);
+    }
+
+    #mohitImage{
+      content: url(../img/mohit2x.png);
     }
 }
 
